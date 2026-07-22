@@ -30,4 +30,4 @@ This repository contains documentation for my AI Studio application.
 - Gemini API
 
 ## Author
-M. Malleswari
+B. Malleswari
